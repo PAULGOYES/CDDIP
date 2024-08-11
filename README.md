@@ -20,6 +20,8 @@ Run the result for the experiment I using the pre-trained diffusion model called
 python diffDIP.py
 ```
 
+Note that we are using DIP with a att-UNET ```from guided_diffusion.NetworkPaul import AttU_Net```
+
 > [!IMPORTANT]
 > This repository will be updated once the paper becomes accepted at IEEE-GRSL :octocat:
 
