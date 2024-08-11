@@ -14,7 +14,7 @@ How to cite:
 }
 ```
 
-Run the result for the experiment I using: 
+Run the result for the experiment I using the pre-trained diffusion model called "DDPM_cosine_27K" : 
 
 ```
 python diffDIP.py
