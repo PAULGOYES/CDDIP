@@ -14,6 +14,12 @@ How to cite:
 }
 ```
 
+Run the result for the experiment I using: 
+
+```
+python diffDIP.py
+```
+
 > [!IMPORTANT]
 > This repository will be updated once the paper becomes accepted at IEEE-GRSL :octocat:
 
